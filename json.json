@@ -1,0 +1,31 @@
+{
+  "name": "Flippy Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.ibb.co/SnfB5bD/image.png",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.rileytestut.Delta.MrUbun2"
+  ],
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.Delta.MrUbun2",
+      "developerName": "",
+      "downloadURL": "blob:https://github.com/0e74d8c0-8e1e-46dd-a156-18786e8bb002",
+      "iconURL": "https://i.ibb.co/BNGPnCP/image.png",
+      "localizedDescription": "Patched Delta Emulator To Allow Higher n64 Roms",
+      "name": "Delta",
+      "screenshotURLs": [
+        "https://i.ibb.co/DWnMdbd/image.png"
+      ],
+      "size": 2184796,
+      "subtitle": "An alternative App Store for iOS.",
+      "tintColor": "018084",
+      "version": "1.5",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Currently Nothing"
+    }
+  ],
+  "news": []
+}
