@@ -9,7 +9,6 @@
   ],
   "apps": [
     {
-      "beta": false,
       "bundleIdentifier": "com.rileytestut.Delta.MrUbun2",
       "developerName": "Delta",
       "downloadURL": "https://github.com/xflipperkast/flippysource/releases/download/lol/patcheddelta.ipa",
