@@ -1,0 +1,23 @@
+{
+  "META": {
+    "repoName": "Flippy Source",
+    "repoIcon": "https://i.ibb.co/SnfB5bD/image.png"
+  },
+  "Tweaked": [
+    {
+      "name": "Delta",
+      "version": "1.5",
+      "icon": "https://i.ibb.co/BNGPnCP/image.png",
+      "down": "https://github.com/xflipperkast/flippysource/releases/download/lol/patcheddelta.ipa",
+      "dev": "",
+      "category": "Tweaked Apps",
+      "description": "Delta Patched For n64 high roms",
+      "bundleID": "com.rileytestut.Delta.MrUbun2",
+      "appstore": "com.rileytestut.Delta.MrUbun2",
+      "enableBackup": true,
+      "screenshots": [
+        "https://i.ibb.co/DWnMdbd/image.png"
+      ]
+    }
+  ]
+}
